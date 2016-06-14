@@ -13,4 +13,4 @@
 
 3. A commit is a save point in Git that shows you the reasoning behind a revision that was made to a file or folder. A good commit message will be specific so everyone can see why the change was made to that sepcific folder or file. 
 
-4. A merge conflict is when two seperate branches have changed the same past of the same file and are merged together. 
+4. A merge conflict is when two seperate branches have changed the same past of the same file and are merged together..
