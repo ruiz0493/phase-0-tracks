@@ -1,0 +1,19 @@
+- For everytime you enter a elevator:
+  -Until you hear a number called out by your master: 
+     -you wait until you master tells you through your voice recognition software which floor he would like to go to. 
+     - Once your master tells you a number, you press that number on the elevator control panel.
+     -After the number is pressed you wait until the elevator stops and opens. 
+  -If no number is called out
+     -Assume that your master is going to the first floor and press the 1 button.
+   
+Algorithm for making a PB & J Sandwich
+
+-Wait until your stomach starts growling
+ -Grab two slices of bread 
+ -Grab a jar of peanut butter
+ -Grab a jar of Jelly 
+ -Grab a spoon
+  -Grab one of the slices of bread and smear a portion of peanut butter on the slice of bread, with the spoon, until it covers the whole slice of bread. 
+  -Grab the other slice of bread and smear Jelly on it, with the same spoon, until it covers the whole slice of bread.
+  -Take both of slices containing peanut butter and Jelly and put them together, with the Jelly and Peanut butter facing each other. 
+-Grab the sandwich and enjoy!
